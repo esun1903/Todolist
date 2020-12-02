@@ -1,8 +1,13 @@
 # Todolist
+삼성청년소프트웨어 - 관통프로젝트 (2020년 하반기)
+
 1학기 관통프로젝트 👍📝✏️
 
 ## 프로젝트 개요
  추가예정
+ 
+프로젝트 기간 : 2020년 11월 19일부터 25일까지 (일주일 간 진행)
+https://kr.vuejs.org/v2/guide/index.html
  
 
 1차
@@ -16,9 +21,21 @@
 | DELETE | /todo/{Idx} | todolist 삭제하기    | O    |
 | GET    | /           | 모든  todolist 조회  | O    |
 
+## 기능
+- 날씨 api를 활용하여 날씨 예보 확인가능
+- 일정 삽입기능 
+- 일정 수정기능
+- 일정 조회기능
+- 일정 삭제기능
+
+## 실행 방법 
+- Vue.js 설치 설치방법은 
 
 ## 개발자
 
 - **최은선** - [esun1903](https://github.com/esun1903) 
 - **최준호** - [junhooo111](https://github.com/junhooo111) 
 - **서정준** - [samuel950523](https://github.com/samuel950523) 
+
+## 결과
+- 프로젝트 우수상 수상
