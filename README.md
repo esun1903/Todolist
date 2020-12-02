@@ -7,7 +7,8 @@
  추가예정
  
 프로젝트 기간 : 2020년 11월 19일부터 25일까지 (일주일 간 진행)
-https://kr.vuejs.org/v2/guide/index.html
+ [프](https://kr.vuejs.org/v2/guide/index.html) 
+
  
 
 1차
@@ -31,11 +32,9 @@ https://kr.vuejs.org/v2/guide/index.html
 ## 실행 방법 
 - Vue.js 설치 설치방법은 
 
-## 개발자
+## 저자 
 
 - **최은선** - [esun1903](https://github.com/esun1903) 
-- **최준호** - [junhooo111](https://github.com/junhooo111) 
-- **서정준** - [samuel950523](https://github.com/samuel950523) 
 
 ## 결과
 - 프로젝트 우수상 수상
